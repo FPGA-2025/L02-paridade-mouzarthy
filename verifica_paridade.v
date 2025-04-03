@@ -4,5 +4,6 @@ module verifica_paridade (
 );
 
 // implemente o seu código aqui
+assign erro = ^dado;
 
 endmodule
